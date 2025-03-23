@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import time
 
-# This is an open source application developed by VEX V5 team 23382H
+# This is an open source application developed by VEX V5 team 23382H, mainly used for team scouting or alliance selection
 
 def get_events_by_sku(event_sku):
     # sample sku:  "RE-VRC-23-4112"
